@@ -7,9 +7,9 @@ import (
 	"io"
 	"os"
 
-	"github.com/microsoft/typescript-go/internal/api"
-	"github.com/microsoft/typescript-go/internal/bundled"
-	"github.com/microsoft/typescript-go/internal/core"
+	"sand-typescript-go/public/api"
+	"sand-typescript-go/public/bundled"
+	"sand-typescript-go/public/core"
 )
 
 func runAPI(args []string) int {
