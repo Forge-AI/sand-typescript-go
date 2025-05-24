@@ -3,9 +3,9 @@ package parser
 import (
 	"slices"
 
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/scanner"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/scanner"
 )
 
 func ensureScriptKind(fileName string, scriptKind core.ScriptKind) core.ScriptKind {

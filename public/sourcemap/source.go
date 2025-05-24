@@ -1,6 +1,6 @@
 package sourcemap
 
-import "sand-typescript-go/public/core"
+import "github.com/Forge-AI/sand-typescript-go/public/core"
 
 type Source interface {
 	Text() string

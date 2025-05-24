@@ -4,9 +4,9 @@ import (
 	"slices"
 	"testing"
 
-	"sand-typescript-go/public/tsoptions"
-	"sand-typescript-go/public/tsoptions/tsoptionstest"
-	"sand-typescript-go/public/vfs/vfstest"
+	"github.com/Forge-AI/sand-typescript-go/public/tsoptions"
+	"github.com/Forge-AI/sand-typescript-go/public/tsoptions/tsoptionstest"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs/vfstest"
 
 	"gotest.tools/v3/assert"
 )

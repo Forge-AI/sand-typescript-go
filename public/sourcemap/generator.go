@@ -6,7 +6,7 @@ import (
 	"slices"
 	"strings"
 
-	"sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
 )
 
 type (

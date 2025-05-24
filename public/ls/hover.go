@@ -4,9 +4,9 @@ import (
 	"context"
 	"strings"
 
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/astnav"
-	"sand-typescript-go/public/lsp/lsproto"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/astnav"
+	"github.com/Forge-AI/sand-typescript-go/public/lsp/lsproto"
 )
 
 func (l *LanguageService) ProvideHover(ctx context.Context, documentURI lsproto.DocumentUri, position lsproto.Position) (*lsproto.Hover, error) {

@@ -1,6 +1,6 @@
 package printer
 
-import "sand-typescript-go/public/ast"
+import "github.com/Forge-AI/sand-typescript-go/public/ast"
 
 // Externally opaque interface for printing text
 type EmitTextWriter interface {

@@ -7,14 +7,14 @@ import (
 	"strings"
 	"testing"
 
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/diagnostics"
-	"sand-typescript-go/public/diagnosticwriter"
-	"sand-typescript-go/public/repo"
-	"sand-typescript-go/public/testutil/baseline"
-	"sand-typescript-go/public/testutil/filefixture"
-	"sand-typescript-go/public/tsoptions"
-	"sand-typescript-go/public/vfs/osvfs"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/diagnostics"
+	"github.com/Forge-AI/sand-typescript-go/public/diagnosticwriter"
+	"github.com/Forge-AI/sand-typescript-go/public/repo"
+	"github.com/Forge-AI/sand-typescript-go/public/testutil/baseline"
+	"github.com/Forge-AI/sand-typescript-go/public/testutil/filefixture"
+	"github.com/Forge-AI/sand-typescript-go/public/tsoptions"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs/osvfs"
 
 	"gotest.tools/v3/assert"
 )

@@ -8,13 +8,13 @@ import (
 	"strings"
 	"testing"
 
-	"sand-typescript-go/public/api/encoder"
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/parser"
-	"sand-typescript-go/public/repo"
-	"sand-typescript-go/public/scanner"
-	"sand-typescript-go/public/testutil/baseline"
+	"github.com/Forge-AI/sand-typescript-go/public/api/encoder"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/parser"
+	"github.com/Forge-AI/sand-typescript-go/public/repo"
+	"github.com/Forge-AI/sand-typescript-go/public/scanner"
+	"github.com/Forge-AI/sand-typescript-go/public/testutil/baseline"
 
 	"gotest.tools/v3/assert"
 )

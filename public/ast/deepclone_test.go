@@ -3,8 +3,8 @@ package ast_test
 import (
 	"testing"
 
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/testutil/parsetestutil"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/testutil/parsetestutil"
 
 	"gotest.tools/v3/assert"
 )

@@ -3,8 +3,8 @@ package fixtures
 import (
 	"path/filepath"
 
-	"sand-typescript-go/public/repo"
-	"sand-typescript-go/public/testutil/filefixture"
+	"github.com/Forge-AI/sand-typescript-go/public/repo"
+	"github.com/Forge-AI/sand-typescript-go/public/testutil/filefixture"
 )
 
 var BenchFixtures = []filefixture.Fixture{

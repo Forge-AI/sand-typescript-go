@@ -7,7 +7,7 @@ import (
 	"sync"
 	"testing"
 
-	"sand-typescript-go/public/testutil/race"
+	"github.com/Forge-AI/sand-typescript-go/public/testutil/race"
 
 	"gotest.tools/v3/assert"
 )

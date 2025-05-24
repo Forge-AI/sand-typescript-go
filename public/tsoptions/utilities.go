@@ -7,10 +7,10 @@ import (
 	"strings"
 	"sync"
 
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/stringutil"
-	"sand-typescript-go/public/tspath"
-	"sand-typescript-go/public/vfs"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/stringutil"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs"
 
 	"github.com/dlclark/regexp2"
 )

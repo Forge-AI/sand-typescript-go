@@ -3,10 +3,10 @@ package project
 import (
 	"slices"
 
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/ls"
-	"sand-typescript-go/public/tspath"
-	"sand-typescript-go/public/vfs"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/ls"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs"
 )
 
 var _ ls.Script = (*ScriptInfo)(nil)

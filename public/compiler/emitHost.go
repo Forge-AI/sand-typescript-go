@@ -3,10 +3,10 @@ package compiler
 import (
 	"context"
 
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/printer"
-	"sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/printer"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
 )
 
 var _ printer.EmitHost = (*emitHost)(nil)

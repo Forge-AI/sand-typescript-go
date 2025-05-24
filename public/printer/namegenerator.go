@@ -3,8 +3,8 @@ package printer
 import (
 	"fmt"
 
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
 )
 
 // Flags enum to track count of temp variables and a few dedicated names

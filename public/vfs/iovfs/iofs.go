@@ -5,10 +5,10 @@ import (
 	"io/fs"
 	"strings"
 
-	"sand-typescript-go/public/stringutil"
-	"sand-typescript-go/public/tspath"
-	"sand-typescript-go/public/vfs"
-	"sand-typescript-go/public/vfs/internal"
+	"github.com/Forge-AI/sand-typescript-go/public/stringutil"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs/internal"
 )
 
 type RealpathFS interface {

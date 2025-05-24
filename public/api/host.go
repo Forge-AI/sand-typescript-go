@@ -1,6 +1,6 @@
 package api
 
-import "sand-typescript-go/public/vfs"
+import "github.com/Forge-AI/sand-typescript-go/public/vfs"
 
 type APIHost interface {
 	FS() vfs.FS

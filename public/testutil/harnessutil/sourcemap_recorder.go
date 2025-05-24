@@ -7,9 +7,9 @@ import (
 	"strconv"
 	"strings"
 
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/sourcemap"
-	"sand-typescript-go/public/stringutil"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/sourcemap"
+	"github.com/Forge-AI/sand-typescript-go/public/stringutil"
 )
 
 type writerAggregator struct {

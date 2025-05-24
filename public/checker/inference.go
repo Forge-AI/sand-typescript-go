@@ -3,9 +3,9 @@ package checker
 import (
 	"slices"
 
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/jsnum"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/jsnum"
 )
 
 type InferenceKey struct {

@@ -8,9 +8,9 @@ import (
 	"strings"
 	"unicode"
 
-	"sand-typescript-go/public/tspath"
-	"sand-typescript-go/public/vfs"
-	"sand-typescript-go/public/vfs/internal"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs/internal"
 )
 
 // FS creates a new FS from the OS file system.

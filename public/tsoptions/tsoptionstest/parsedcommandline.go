@@ -1,8 +1,8 @@
 package tsoptionstest
 
 import (
-	"sand-typescript-go/public/tsoptions"
-	"sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/tsoptions"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
 
 	"gotest.tools/v3/assert"
 )

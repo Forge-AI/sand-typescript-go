@@ -1,8 +1,8 @@
 package execute
 
 import (
-	"sand-typescript-go/public/compiler"
-	"sand-typescript-go/public/tsoptions"
+	"github.com/Forge-AI/sand-typescript-go/public/compiler"
+	"github.com/Forge-AI/sand-typescript-go/public/tsoptions"
 )
 
 func CommandLineTest(sys System, cb cbType, commandLineArgs []string) (*tsoptions.ParsedCommandLine, ExitStatus) {

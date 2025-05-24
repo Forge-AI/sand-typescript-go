@@ -12,9 +12,9 @@ import (
 	"slices"
 	"strings"
 
-	"sand-typescript-go/public/parser"
-	"sand-typescript-go/public/repo"
-	"sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/parser"
+	"github.com/Forge-AI/sand-typescript-go/public/repo"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
 )
 
 var (

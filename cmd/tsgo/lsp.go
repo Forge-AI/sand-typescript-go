@@ -7,11 +7,11 @@ import (
 	"io"
 	"os"
 
-	"sand-typescript-go/public/bundled"
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/lsp"
-	"sand-typescript-go/public/pprof"
-	"sand-typescript-go/public/vfs/osvfs"
+	"github.com/Forge-AI/sand-typescript-go/public/bundled"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/lsp"
+	"github.com/Forge-AI/sand-typescript-go/public/pprof"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs/osvfs"
 )
 
 func runLSP(args []string) int {

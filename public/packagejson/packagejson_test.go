@@ -5,11 +5,11 @@ import (
 	"path/filepath"
 	"testing"
 
-	"sand-typescript-go/public/packagejson"
-	"sand-typescript-go/public/parser"
-	"sand-typescript-go/public/repo"
-	"sand-typescript-go/public/testutil/filefixture"
-	"sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/packagejson"
+	"github.com/Forge-AI/sand-typescript-go/public/parser"
+	"github.com/Forge-AI/sand-typescript-go/public/repo"
+	"github.com/Forge-AI/sand-typescript-go/public/testutil/filefixture"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
 
 	json2 "github.com/go-json-experiment/json"
 )

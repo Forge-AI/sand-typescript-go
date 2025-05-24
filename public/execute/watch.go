@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"sand-typescript-go/public/compiler"
+	"github.com/Forge-AI/sand-typescript-go/public/compiler"
 )
 
 func start(w *watcher) ExitStatus {

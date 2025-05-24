@@ -6,7 +6,7 @@ import (
 	"slices"
 	"testing"
 
-	"sand-typescript-go/public/collections"
+	"github.com/Forge-AI/sand-typescript-go/public/collections"
 
 	json2 "github.com/go-json-experiment/json"
 	"gotest.tools/v3/assert"

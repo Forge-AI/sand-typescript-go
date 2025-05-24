@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
 
 	"gotest.tools/v3/assert"
 	"gotest.tools/v3/assert/cmp"

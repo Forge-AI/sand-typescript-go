@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"sand-typescript-go/public/execute"
+	"github.com/Forge-AI/sand-typescript-go/public/execute"
 )
 
 func main() {

@@ -4,7 +4,7 @@ import (
 	"regexp"
 	"strings"
 
-	"sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
 
 	"github.com/dlclark/regexp2"
 )

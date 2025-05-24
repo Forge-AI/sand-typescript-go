@@ -7,8 +7,8 @@ import (
 	"io/fs"
 	"unicode/utf16"
 
-	"sand-typescript-go/public/tspath"
-	"sand-typescript-go/public/vfs"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs"
 )
 
 type Common struct {

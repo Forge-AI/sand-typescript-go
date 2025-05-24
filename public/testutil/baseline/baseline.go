@@ -9,10 +9,10 @@ import (
 	"sync"
 	"testing"
 
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/repo"
-	"sand-typescript-go/public/stringutil"
-	"sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/repo"
+	"github.com/Forge-AI/sand-typescript-go/public/stringutil"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
 
 	"github.com/peter-evans/patience"
 	"gotest.tools/v3/assert"

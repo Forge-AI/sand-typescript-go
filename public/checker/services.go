@@ -4,8 +4,8 @@ import (
 	"maps"
 	"slices"
 
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
 )
 
 func (c *Checker) GetSymbolsInScope(location *ast.Node, meaning ast.SymbolFlags) []*ast.Symbol {

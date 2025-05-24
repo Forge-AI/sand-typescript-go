@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"slices"
 
-	"sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
 )
 
 const (

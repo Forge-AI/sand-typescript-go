@@ -5,7 +5,7 @@ import (
 	"strings"
 	"unicode"
 
-	"sand-typescript-go/public/stringutil"
+	"github.com/Forge-AI/sand-typescript-go/public/stringutil"
 )
 
 type Path string

@@ -9,15 +9,15 @@ import (
 	"sync"
 	"time"
 
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/collections"
-	"sand-typescript-go/public/compiler"
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/ls"
-	"sand-typescript-go/public/lsp/lsproto"
-	"sand-typescript-go/public/tsoptions"
-	"sand-typescript-go/public/tspath"
-	"sand-typescript-go/public/vfs"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/collections"
+	"github.com/Forge-AI/sand-typescript-go/public/compiler"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/ls"
+	"github.com/Forge-AI/sand-typescript-go/public/lsp/lsproto"
+	"github.com/Forge-AI/sand-typescript-go/public/tsoptions"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs"
 )
 
 //go:generate go tool golang.org/x/tools/cmd/stringer -type=Kind -output=project_stringer_generated.go

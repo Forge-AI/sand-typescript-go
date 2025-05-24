@@ -9,14 +9,14 @@ import (
 	"strings"
 	"time"
 
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/collections"
-	"sand-typescript-go/public/compiler"
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/diagnostics"
-	"sand-typescript-go/public/diagnosticwriter"
-	"sand-typescript-go/public/tsoptions"
-	"sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/collections"
+	"github.com/Forge-AI/sand-typescript-go/public/compiler"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/diagnostics"
+	"github.com/Forge-AI/sand-typescript-go/public/diagnosticwriter"
+	"github.com/Forge-AI/sand-typescript-go/public/tsoptions"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
 )
 
 func getFormatOptsOfSys(sys System) *diagnosticwriter.FormattingOptions {

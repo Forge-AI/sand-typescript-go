@@ -1,7 +1,7 @@
 package ast
 
 import (
-	"sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
 )
 
 type SubtreeFacts int32

@@ -1,8 +1,8 @@
 package transformers
 
 import (
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/printer"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/printer"
 )
 
 // Gets whether a node is a `static {}` block containing only a single assignment of the static `this` to the `_classThis`

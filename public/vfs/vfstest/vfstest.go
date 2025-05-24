@@ -12,9 +12,9 @@ import (
 	"testing/fstest"
 	"time"
 
-	"sand-typescript-go/public/tspath"
-	"sand-typescript-go/public/vfs"
-	"sand-typescript-go/public/vfs/iovfs"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs/iovfs"
 )
 
 type mapFS struct {

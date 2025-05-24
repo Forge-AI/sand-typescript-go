@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"sand-typescript-go/public/packagejson"
+	"github.com/Forge-AI/sand-typescript-go/public/packagejson"
 
 	json2 "github.com/go-json-experiment/json"
 	"gotest.tools/v3/assert"

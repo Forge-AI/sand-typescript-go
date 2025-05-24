@@ -6,8 +6,8 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
 )
 
 // Atomic ids

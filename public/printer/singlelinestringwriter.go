@@ -4,8 +4,8 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/stringutil"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/stringutil"
 )
 
 var SingleLineStringWriter EmitTextWriter = &singleLineStringWriter{}

@@ -1,6 +1,6 @@
 package vfsmock
 
-import "sand-typescript-go/public/vfs"
+import "github.com/Forge-AI/sand-typescript-go/public/vfs"
 
 // Wrap wraps a vfs.FS and returns a FSMock which calls it.
 func Wrap(fs vfs.FS) *FSMock {

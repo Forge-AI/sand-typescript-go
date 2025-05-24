@@ -10,7 +10,7 @@ import (
 	"slices"
 	"testing"
 
-	"sand-typescript-go/public/testutil/jstest"
+	"github.com/Forge-AI/sand-typescript-go/public/testutil/jstest"
 
 	"gotest.tools/v3/assert"
 )

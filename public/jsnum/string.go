@@ -10,7 +10,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"sand-typescript-go/public/stringutil"
+	"github.com/Forge-AI/sand-typescript-go/public/stringutil"
 )
 
 // https://tc39.es/ecma262/2024/multipage/ecmascript-data-types-and-values.html#sec-numeric-types-number-tostring

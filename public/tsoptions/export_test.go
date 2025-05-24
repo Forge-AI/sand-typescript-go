@@ -1,9 +1,9 @@
 package tsoptions
 
 import (
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/collections"
-	"sand-typescript-go/public/vfs"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/collections"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs"
 )
 
 func getTestParseCommandLineWorkerDiagnostics(decls []*CommandLineOption) *ParseCommandLineWorkerDiagnostics {

@@ -7,8 +7,8 @@ import (
 	"strings"
 	"testing"
 
-	"sand-typescript-go/public/execute"
-	"sand-typescript-go/public/testutil/baseline"
+	"github.com/Forge-AI/sand-typescript-go/public/execute"
+	"github.com/Forge-AI/sand-typescript-go/public/testutil/baseline"
 )
 
 type testTscEdit struct {

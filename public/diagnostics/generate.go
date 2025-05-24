@@ -21,7 +21,7 @@ import (
 	"strings"
 	"unicode"
 
-	"sand-typescript-go/public/repo"
+	"github.com/Forge-AI/sand-typescript-go/public/repo"
 )
 
 type diagnosticMessage struct {

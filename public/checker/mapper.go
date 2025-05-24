@@ -1,6 +1,6 @@
 package checker
 
-import "sand-typescript-go/public/core"
+import "github.com/Forge-AI/sand-typescript-go/public/core"
 
 // TypeMapperKind
 

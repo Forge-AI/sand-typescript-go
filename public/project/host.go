@@ -3,8 +3,8 @@ package project
 import (
 	"context"
 
-	"sand-typescript-go/public/lsp/lsproto"
-	"sand-typescript-go/public/vfs"
+	"github.com/Forge-AI/sand-typescript-go/public/lsp/lsproto"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs"
 )
 
 type WatcherHandle string

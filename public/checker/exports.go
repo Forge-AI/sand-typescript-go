@@ -1,8 +1,8 @@
 package checker
 
 import (
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/diagnostics"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/diagnostics"
 )
 
 func (c *Checker) GetUnionType(types []*Type) *Type {

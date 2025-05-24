@@ -4,13 +4,13 @@ import (
 	"fmt"
 	"strings"
 
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/astnav"
-	"sand-typescript-go/public/checker"
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/jsnum"
-	"sand-typescript-go/public/lsp/lsproto"
-	"sand-typescript-go/public/scanner"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/astnav"
+	"github.com/Forge-AI/sand-typescript-go/public/checker"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/jsnum"
+	"github.com/Forge-AI/sand-typescript-go/public/lsp/lsproto"
+	"github.com/Forge-AI/sand-typescript-go/public/scanner"
 )
 
 var quoteReplacer = strings.NewReplacer("'", `\'`, `\"`, `"`)

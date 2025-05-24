@@ -7,11 +7,11 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/scanner"
-	"sand-typescript-go/public/stringutil"
-	"sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/scanner"
+	"github.com/Forge-AI/sand-typescript-go/public/stringutil"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
 )
 
 type getLiteralTextFlags int

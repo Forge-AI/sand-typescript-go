@@ -7,9 +7,9 @@ import (
 	"strings"
 	"testing"
 
-	"sand-typescript-go/public/repo"
-	"sand-typescript-go/public/tspath"
-	"sand-typescript-go/public/vfs/osvfs"
+	"github.com/Forge-AI/sand-typescript-go/public/repo"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs/osvfs"
 
 	"gotest.tools/v3/assert"
 )

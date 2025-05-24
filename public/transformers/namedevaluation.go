@@ -3,8 +3,8 @@ package transformers
 import (
 	"slices"
 
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/printer"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/printer"
 )
 
 /**

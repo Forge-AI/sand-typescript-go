@@ -8,12 +8,12 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/collections"
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/module"
-	"sand-typescript-go/public/tsoptions"
-	"sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/collections"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/module"
+	"github.com/Forge-AI/sand-typescript-go/public/tsoptions"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
 )
 
 type fileLoader struct {

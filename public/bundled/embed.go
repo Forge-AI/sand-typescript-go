@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"sand-typescript-go/public/vfs"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs"
 )
 
 const embedded = true

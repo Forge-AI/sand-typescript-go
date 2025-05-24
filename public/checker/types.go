@@ -3,10 +3,10 @@ package checker
 import (
 	"slices"
 
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/collections"
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/evaluator"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/collections"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/evaluator"
 )
 
 //go:generate go tool golang.org/x/tools/cmd/stringer -type=SignatureKind -output=stringer_generated.go

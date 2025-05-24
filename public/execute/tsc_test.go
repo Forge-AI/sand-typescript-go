@@ -3,7 +3,7 @@ package execute_test
 import (
 	"testing"
 
-	"sand-typescript-go/public/bundled"
+	"github.com/Forge-AI/sand-typescript-go/public/bundled"
 )
 
 func TestTsc(t *testing.T) {

@@ -6,12 +6,12 @@ import (
 	"strings"
 	"testing"
 
-	"sand-typescript-go/public/bundled"
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/repo"
-	"sand-typescript-go/public/tspath"
-	"sand-typescript-go/public/vfs/osvfs"
-	"sand-typescript-go/public/vfs/vfstest"
+	"github.com/Forge-AI/sand-typescript-go/public/bundled"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/repo"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs/osvfs"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs/vfstest"
 
 	"gotest.tools/v3/assert"
 )

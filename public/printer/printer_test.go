@@ -3,12 +3,12 @@ package printer_test
 import (
 	"testing"
 
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/printer"
-	"sand-typescript-go/public/testutil/emittestutil"
-	"sand-typescript-go/public/testutil/parsetestutil"
-	"sand-typescript-go/public/transformers"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/printer"
+	"github.com/Forge-AI/sand-typescript-go/public/testutil/emittestutil"
+	"github.com/Forge-AI/sand-typescript-go/public/testutil/parsetestutil"
+	"github.com/Forge-AI/sand-typescript-go/public/transformers"
 )
 
 func TestEmit(t *testing.T) {

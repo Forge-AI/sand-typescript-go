@@ -7,9 +7,9 @@ import (
 	"io"
 	"os"
 
-	"sand-typescript-go/public/api"
-	"sand-typescript-go/public/bundled"
-	"sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/api"
+	"github.com/Forge-AI/sand-typescript-go/public/bundled"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
 )
 
 func runAPI(args []string) int {

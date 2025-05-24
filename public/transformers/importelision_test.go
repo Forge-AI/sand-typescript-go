@@ -3,14 +3,14 @@ package transformers
 import (
 	"testing"
 
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/binder"
-	"sand-typescript-go/public/checker"
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/printer"
-	"sand-typescript-go/public/testutil/emittestutil"
-	"sand-typescript-go/public/testutil/parsetestutil"
-	"sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/binder"
+	"github.com/Forge-AI/sand-typescript-go/public/checker"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/printer"
+	"github.com/Forge-AI/sand-typescript-go/public/testutil/emittestutil"
+	"github.com/Forge-AI/sand-typescript-go/public/testutil/parsetestutil"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
 )
 
 type fakeProgram struct {

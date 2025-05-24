@@ -10,11 +10,11 @@ import (
 	"strconv"
 	"sync"
 
-	"sand-typescript-go/public/bundled"
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/project"
-	"sand-typescript-go/public/vfs"
-	"sand-typescript-go/public/vfs/osvfs"
+	"github.com/Forge-AI/sand-typescript-go/public/bundled"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/project"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs/osvfs"
 )
 
 //go:generate go tool golang.org/x/tools/cmd/stringer -type=MessageType -output=stringer_generated.go

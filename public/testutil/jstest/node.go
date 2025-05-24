@@ -9,8 +9,8 @@ import (
 	"sync"
 	"testing"
 
-	"sand-typescript-go/public/repo"
-	"sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/repo"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
 )
 
 const loaderScript = `import script from "./script.mjs";

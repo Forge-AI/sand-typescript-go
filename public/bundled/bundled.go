@@ -7,8 +7,8 @@ import (
 	"sync"
 	"testing"
 
-	"sand-typescript-go/public/tspath"
-	"sand-typescript-go/public/vfs"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs"
 )
 
 //go:generate go run generate.go

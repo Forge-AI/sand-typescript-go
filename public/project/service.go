@@ -7,11 +7,11 @@ import (
 	"strings"
 	"sync"
 
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/ls"
-	"sand-typescript-go/public/lsp/lsproto"
-	"sand-typescript-go/public/tspath"
-	"sand-typescript-go/public/vfs"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/ls"
+	"github.com/Forge-AI/sand-typescript-go/public/lsp/lsproto"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs"
 )
 
 type projectLoadKind int

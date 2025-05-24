@@ -4,7 +4,7 @@ import (
 	"strings"
 	"unicode"
 
-	"sand-typescript-go/public/stringutil"
+	"github.com/Forge-AI/sand-typescript-go/public/stringutil"
 )
 
 // Tries to find the sourceMappingURL comment at the end of a file.

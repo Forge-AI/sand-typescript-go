@@ -3,9 +3,9 @@ package tsoptions
 import (
 	"slices"
 
-	"sand-typescript-go/public/collections"
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/collections"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
 )
 
 var libMap = collections.NewOrderedMapFromList([]collections.MapEntry[string, any]{

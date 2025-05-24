@@ -1,8 +1,8 @@
 package printer
 
 import (
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/binder"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/binder"
 )
 
 type EmitResolver interface {

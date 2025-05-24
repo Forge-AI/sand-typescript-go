@@ -4,8 +4,8 @@ import (
 	"slices"
 	"sync"
 
-	"sand-typescript-go/public/stringutil"
-	"sand-typescript-go/public/vfs"
+	"github.com/Forge-AI/sand-typescript-go/public/stringutil"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs"
 )
 
 type OutputRecorderFS struct {

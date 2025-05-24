@@ -1,13 +1,13 @@
 package compiler
 
 import (
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/parser"
-	"sand-typescript-go/public/scanner"
-	"sand-typescript-go/public/tspath"
-	"sand-typescript-go/public/vfs"
-	"sand-typescript-go/public/vfs/cachedvfs"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/parser"
+	"github.com/Forge-AI/sand-typescript-go/public/scanner"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs/cachedvfs"
 )
 
 type CompilerHost interface {

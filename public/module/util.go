@@ -3,9 +3,9 @@ package module
 import (
 	"strings"
 
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/semver"
-	"sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/semver"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
 )
 
 var typeScriptVersion = semver.MustParse(core.Version())

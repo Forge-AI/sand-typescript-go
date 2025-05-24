@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
 )
 
 func TestParseCompilerOptionNoMissingFields(t *testing.T) {

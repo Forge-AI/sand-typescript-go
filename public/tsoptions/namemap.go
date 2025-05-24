@@ -3,7 +3,7 @@ package tsoptions
 import (
 	"strings"
 
-	"sand-typescript-go/public/collections"
+	"github.com/Forge-AI/sand-typescript-go/public/collections"
 )
 
 var (

@@ -3,7 +3,7 @@ package tsoptions
 import (
 	"slices"
 
-	"sand-typescript-go/public/diagnostics"
+	"github.com/Forge-AI/sand-typescript-go/public/diagnostics"
 )
 
 var BuildOpts = slices.Concat(commonOptionsWithBuild, optionsForBuild)

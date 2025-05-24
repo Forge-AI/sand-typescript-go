@@ -3,10 +3,10 @@ package tsbaseline
 import (
 	"testing"
 
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/testutil/baseline"
-	"sand-typescript-go/public/testutil/harnessutil"
-	"sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/testutil/baseline"
+	"github.com/Forge-AI/sand-typescript-go/public/testutil/harnessutil"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
 )
 
 func DoSourcemapRecordBaseline(

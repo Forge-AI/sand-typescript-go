@@ -5,11 +5,11 @@ import (
 	"slices"
 	"testing"
 
-	"sand-typescript-go/public/bundled"
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/lsp/lsproto"
-	"sand-typescript-go/public/project"
-	"sand-typescript-go/public/testutil/projecttestutil"
+	"github.com/Forge-AI/sand-typescript-go/public/bundled"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/lsp/lsproto"
+	"github.com/Forge-AI/sand-typescript-go/public/project"
+	"github.com/Forge-AI/sand-typescript-go/public/testutil/projecttestutil"
 
 	"gotest.tools/v3/assert"
 )

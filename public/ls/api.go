@@ -5,9 +5,9 @@ import (
 	"errors"
 	"fmt"
 
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/astnav"
-	"sand-typescript-go/public/checker"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/astnav"
+	"github.com/Forge-AI/sand-typescript-go/public/checker"
 )
 
 var (

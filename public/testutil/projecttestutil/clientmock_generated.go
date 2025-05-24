@@ -7,8 +7,8 @@ import (
 	"context"
 	"sync"
 
-	"sand-typescript-go/public/lsp/lsproto"
-	"sand-typescript-go/public/project"
+	"github.com/Forge-AI/sand-typescript-go/public/lsp/lsproto"
+	"github.com/Forge-AI/sand-typescript-go/public/project"
 )
 
 // Ensure, that ClientMock does implement project.Client.

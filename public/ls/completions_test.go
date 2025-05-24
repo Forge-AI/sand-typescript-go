@@ -5,12 +5,12 @@ import (
 	"slices"
 	"testing"
 
-	"sand-typescript-go/public/bundled"
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/ls"
-	"sand-typescript-go/public/lsp/lsproto"
-	"sand-typescript-go/public/testutil/lstestutil"
-	"sand-typescript-go/public/testutil/projecttestutil"
+	"github.com/Forge-AI/sand-typescript-go/public/bundled"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/ls"
+	"github.com/Forge-AI/sand-typescript-go/public/lsp/lsproto"
+	"github.com/Forge-AI/sand-typescript-go/public/testutil/lstestutil"
+	"github.com/Forge-AI/sand-typescript-go/public/testutil/projecttestutil"
 
 	"github.com/google/go-cmp/cmp/cmpopts"
 	"gotest.tools/v3/assert"

@@ -3,7 +3,7 @@ package tsoptions
 import (
 	"sync"
 
-	"sand-typescript-go/public/diagnostics"
+	"github.com/Forge-AI/sand-typescript-go/public/diagnostics"
 )
 
 type DidYouMeanOptionsDiagnostics struct {

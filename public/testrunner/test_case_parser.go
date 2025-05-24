@@ -5,12 +5,12 @@ import (
 	"slices"
 	"strings"
 
-	"sand-typescript-go/public/parser"
-	"sand-typescript-go/public/scanner"
-	"sand-typescript-go/public/testutil/harnessutil"
-	"sand-typescript-go/public/tsoptions"
-	"sand-typescript-go/public/tsoptions/tsoptionstest"
-	"sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/parser"
+	"github.com/Forge-AI/sand-typescript-go/public/scanner"
+	"github.com/Forge-AI/sand-typescript-go/public/testutil/harnessutil"
+	"github.com/Forge-AI/sand-typescript-go/public/tsoptions"
+	"github.com/Forge-AI/sand-typescript-go/public/tsoptions/tsoptionstest"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
 )
 
 var lineDelimiter = regexp.MustCompile("\r?\n")

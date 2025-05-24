@@ -3,8 +3,8 @@ package module
 import (
 	"sync"
 
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/packagejson"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/packagejson"
 )
 
 type ModeAwareCache[T any] map[ModeAwareCacheKey]T

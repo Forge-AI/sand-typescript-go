@@ -3,14 +3,14 @@ package checker_test
 import (
 	"testing"
 
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/bundled"
-	"sand-typescript-go/public/checker"
-	"sand-typescript-go/public/compiler"
-	"sand-typescript-go/public/repo"
-	"sand-typescript-go/public/tspath"
-	"sand-typescript-go/public/vfs/osvfs"
-	"sand-typescript-go/public/vfs/vfstest"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/bundled"
+	"github.com/Forge-AI/sand-typescript-go/public/checker"
+	"github.com/Forge-AI/sand-typescript-go/public/compiler"
+	"github.com/Forge-AI/sand-typescript-go/public/repo"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs/osvfs"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs/vfstest"
 )
 
 func TestGetSymbolAtLocation(t *testing.T) {

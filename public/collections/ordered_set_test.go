@@ -4,7 +4,7 @@ import (
 	"slices"
 	"testing"
 
-	"sand-typescript-go/public/collections"
+	"github.com/Forge-AI/sand-typescript-go/public/collections"
 
 	"gotest.tools/v3/assert"
 )

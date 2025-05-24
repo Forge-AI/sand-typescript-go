@@ -5,9 +5,9 @@ import (
 	"testing"
 	"testing/fstest"
 
-	"sand-typescript-go/public/testutil"
-	"sand-typescript-go/public/vfs"
-	"sand-typescript-go/public/vfs/iovfs"
+	"github.com/Forge-AI/sand-typescript-go/public/testutil"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs/iovfs"
 
 	"gotest.tools/v3/assert"
 )

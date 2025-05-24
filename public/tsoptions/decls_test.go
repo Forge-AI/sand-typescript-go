@@ -5,8 +5,8 @@ import (
 	"strings"
 	"testing"
 
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/tsoptions"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/tsoptions"
 )
 
 func TestCompilerOptionsDeclaration(t *testing.T) {

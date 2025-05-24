@@ -3,10 +3,10 @@ package transformers
 import (
 	"testing"
 
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/printer"
-	"sand-typescript-go/public/testutil/emittestutil"
-	"sand-typescript-go/public/testutil/parsetestutil"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/printer"
+	"github.com/Forge-AI/sand-typescript-go/public/testutil/emittestutil"
+	"github.com/Forge-AI/sand-typescript-go/public/testutil/parsetestutil"
 )
 
 func TestTypeEraser(t *testing.T) {

@@ -5,9 +5,9 @@ import (
 	"strings"
 	"testing"
 
-	"sand-typescript-go/public/bundled"
-	"sand-typescript-go/public/execute"
-	"sand-typescript-go/public/testutil/baseline"
+	"github.com/Forge-AI/sand-typescript-go/public/bundled"
+	"github.com/Forge-AI/sand-typescript-go/public/execute"
+	"github.com/Forge-AI/sand-typescript-go/public/testutil/baseline"
 )
 
 func verifyWatch(t *testing.T, test *tscInput, scenario string, edits []*testTscEdit) {

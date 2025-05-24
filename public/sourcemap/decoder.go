@@ -4,7 +4,7 @@ import (
 	"errors"
 	"iter"
 
-	"sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
 )
 
 type Mapping struct {

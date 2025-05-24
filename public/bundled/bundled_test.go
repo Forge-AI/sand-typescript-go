@@ -5,10 +5,10 @@ import (
 	"path/filepath"
 	"testing"
 
-	"sand-typescript-go/public/bundled"
-	"sand-typescript-go/public/tspath"
-	"sand-typescript-go/public/vfs"
-	"sand-typescript-go/public/vfs/osvfs"
+	"github.com/Forge-AI/sand-typescript-go/public/bundled"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs/osvfs"
 
 	"gotest.tools/v3/assert"
 )

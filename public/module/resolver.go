@@ -5,13 +5,13 @@ import (
 	"slices"
 	"strings"
 
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/collections"
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/diagnostics"
-	"sand-typescript-go/public/packagejson"
-	"sand-typescript-go/public/semver"
-	"sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/collections"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/diagnostics"
+	"github.com/Forge-AI/sand-typescript-go/public/packagejson"
+	"github.com/Forge-AI/sand-typescript-go/public/semver"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
 )
 
 type resolved struct {

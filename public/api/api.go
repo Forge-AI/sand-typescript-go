@@ -7,16 +7,16 @@ import (
 	"fmt"
 	"sync"
 
-	"sand-typescript-go/public/api/encoder"
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/astnav"
-	"sand-typescript-go/public/checker"
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/lsp/lsproto"
-	"sand-typescript-go/public/project"
-	"sand-typescript-go/public/tsoptions"
-	"sand-typescript-go/public/tspath"
-	"sand-typescript-go/public/vfs"
+	"github.com/Forge-AI/sand-typescript-go/public/api/encoder"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/astnav"
+	"github.com/Forge-AI/sand-typescript-go/public/checker"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/lsp/lsproto"
+	"github.com/Forge-AI/sand-typescript-go/public/project"
+	"github.com/Forge-AI/sand-typescript-go/public/tsoptions"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs"
 )
 
 type handleMap[T any] map[Handle[T]]*T

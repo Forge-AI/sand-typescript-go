@@ -1,10 +1,10 @@
 package transformers
 
 import (
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/binder"
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/printer"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/binder"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/printer"
 )
 
 type ImpliedModuleTransformer struct {

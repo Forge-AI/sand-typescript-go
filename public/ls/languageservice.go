@@ -3,9 +3,9 @@ package ls
 import (
 	"context"
 
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/compiler"
-	"sand-typescript-go/public/lsp/lsproto"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/compiler"
+	"github.com/Forge-AI/sand-typescript-go/public/lsp/lsproto"
 )
 
 type LanguageService struct {

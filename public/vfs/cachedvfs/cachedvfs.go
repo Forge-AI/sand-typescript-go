@@ -1,8 +1,8 @@
 package cachedvfs
 
 import (
-	"sand-typescript-go/public/collections"
-	"sand-typescript-go/public/vfs"
+	"github.com/Forge-AI/sand-typescript-go/public/collections"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs"
 )
 
 type FS struct {

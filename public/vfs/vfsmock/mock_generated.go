@@ -6,7 +6,7 @@ package vfsmock
 import (
 	"sync"
 
-	"sand-typescript-go/public/vfs"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs"
 )
 
 // Ensure, that FSMock does implement vfs.FS.

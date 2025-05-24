@@ -4,10 +4,10 @@ import (
 	"reflect"
 	"time"
 
-	"sand-typescript-go/public/compiler"
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/tsoptions"
-	"sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/compiler"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/tsoptions"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
 )
 
 type watcher struct {

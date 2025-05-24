@@ -1,9 +1,9 @@
 package ls
 
 import (
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/checker"
-	"sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/checker"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
 )
 
 type ScriptElementKind string

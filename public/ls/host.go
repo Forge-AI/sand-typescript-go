@@ -1,8 +1,8 @@
 package ls
 
 import (
-	"sand-typescript-go/public/compiler"
-	"sand-typescript-go/public/lsp/lsproto"
+	"github.com/Forge-AI/sand-typescript-go/public/compiler"
+	"github.com/Forge-AI/sand-typescript-go/public/lsp/lsproto"
 )
 
 type Host interface {

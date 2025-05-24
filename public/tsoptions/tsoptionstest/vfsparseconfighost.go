@@ -1,10 +1,10 @@
 package tsoptionstest
 
 import (
-	"sand-typescript-go/public/tsoptions"
-	"sand-typescript-go/public/tspath"
-	"sand-typescript-go/public/vfs"
-	"sand-typescript-go/public/vfs/vfstest"
+	"github.com/Forge-AI/sand-typescript-go/public/tsoptions"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs/vfstest"
 )
 
 func fixRoot(path string) string {

@@ -3,7 +3,7 @@ package encoder
 import (
 	"strings"
 
-	"sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
 )
 
 type stringTable struct {

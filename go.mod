@@ -1,4 +1,4 @@
-module sand-typescript-go
+module github.com/Forge-AI/sand-typescript-go
 
 go 1.24.0
 

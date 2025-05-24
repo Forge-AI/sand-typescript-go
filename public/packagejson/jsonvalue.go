@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"sand-typescript-go/public/collections"
+	"github.com/Forge-AI/sand-typescript-go/public/collections"
 
 	json2 "github.com/go-json-experiment/json"
 	"github.com/go-json-experiment/json/jsontext"

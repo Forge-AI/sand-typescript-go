@@ -4,7 +4,7 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
 )
 
 type LineMap struct {

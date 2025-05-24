@@ -3,7 +3,7 @@ package sourcemap
 import (
 	"testing"
 
-	"sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
 
 	"gotest.tools/v3/assert"
 )

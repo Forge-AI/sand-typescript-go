@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"sand-typescript-go/public/vfs/vfstest"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs/vfstest"
 
 	"gotest.tools/v3/assert"
 )

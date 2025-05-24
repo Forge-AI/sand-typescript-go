@@ -8,15 +8,15 @@ import (
 	"strings"
 	"testing"
 
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/checker"
-	"sand-typescript-go/public/compiler"
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/scanner"
-	"sand-typescript-go/public/testutil"
-	"sand-typescript-go/public/testutil/baseline"
-	"sand-typescript-go/public/testutil/harnessutil"
-	"sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/checker"
+	"github.com/Forge-AI/sand-typescript-go/public/compiler"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/scanner"
+	"github.com/Forge-AI/sand-typescript-go/public/testutil"
+	"github.com/Forge-AI/sand-typescript-go/public/testutil/baseline"
+	"github.com/Forge-AI/sand-typescript-go/public/testutil/harnessutil"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
 )
 
 var (

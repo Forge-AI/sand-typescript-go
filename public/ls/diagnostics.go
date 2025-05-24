@@ -3,9 +3,9 @@ package ls
 import (
 	"context"
 
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/diagnostics"
-	"sand-typescript-go/public/lsp/lsproto"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/diagnostics"
+	"github.com/Forge-AI/sand-typescript-go/public/lsp/lsproto"
 )
 
 func (l *LanguageService) GetDocumentDiagnostics(ctx context.Context, documentURI lsproto.DocumentUri) (*lsproto.DocumentDiagnosticReport, error) {

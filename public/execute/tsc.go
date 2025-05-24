@@ -8,13 +8,13 @@ import (
 	"strings"
 	"time"
 
-	"sand-typescript-go/public/ast"
-	"sand-typescript-go/public/compiler"
-	"sand-typescript-go/public/core"
-	"sand-typescript-go/public/diagnostics"
-	"sand-typescript-go/public/pprof"
-	"sand-typescript-go/public/tsoptions"
-	"sand-typescript-go/public/tspath"
+	"github.com/Forge-AI/sand-typescript-go/public/ast"
+	"github.com/Forge-AI/sand-typescript-go/public/compiler"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/diagnostics"
+	"github.com/Forge-AI/sand-typescript-go/public/pprof"
+	"github.com/Forge-AI/sand-typescript-go/public/tsoptions"
+	"github.com/Forge-AI/sand-typescript-go/public/tspath"
 )
 
 type cbType = func(p any) any

@@ -10,9 +10,9 @@ import (
 	"strings"
 	"time"
 
-	"sand-typescript-go/public/bundled"
-	"sand-typescript-go/public/vfs"
-	"sand-typescript-go/public/vfs/vfstest"
+	"github.com/Forge-AI/sand-typescript-go/public/bundled"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs"
+	"github.com/Forge-AI/sand-typescript-go/public/vfs/vfstest"
 )
 
 type FileMap map[string]string

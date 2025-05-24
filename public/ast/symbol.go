@@ -3,7 +3,7 @@ package ast
 import (
 	"sync/atomic"
 
-	"sand-typescript-go/public/core"
+	"github.com/Forge-AI/sand-typescript-go/public/core"
 )
 
 // Symbol
